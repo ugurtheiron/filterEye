@@ -8,6 +8,17 @@ def main():
         # Read the current frame from the video capture
         ret, frame = cap.read()
 
+
+
+
+
+
+
+
+
+
+
+
         # Display the frame
         cv2.imshow('Video Capture', frame)
 
